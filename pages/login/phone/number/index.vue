@@ -9,7 +9,7 @@
 			</view>
 			<u-input placeholder="+52" prefixIcon="search" prefixIconStyle="font-size: 22px;color: #909399"></u-input>
 			<u-radio-group style="margin: 3rem 0 1.5rem;" v-model="radiovalue1" placement="column">
-				<u-radio :customStyle="{marginBottom: '8px'}"
+				<u-radio activeColor="#1cba3b" :customStyle="{marginBottom: '8px'}"
 					label="He leido y aceptado estos términos, condiciones y Politica de privacidad" name="1">
 				</u-radio>
 			</u-radio-group>

@@ -48,11 +48,15 @@
 		"list": [{
 				"pagePath": "pages/index/index",
 				"text": "首页",
+				"iconPath": "static/tabIcon/isdating.png",
+				"selectedIconPath": "static/tabIcon/dating.png",
 				"enablePullDownRefresh": true
 			},
 			{
 				"pagePath": "pages/myCount/index",
 				"text": "我的",
+				"iconPath": "static/tabIcon/my.png",
+				"selectedIconPath": "static/tabIcon/ismy.png",
 				"enablePullDownRefresh": true
 			}
 		]
